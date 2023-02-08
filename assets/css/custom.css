@@ -1,10 +1,28 @@
-.foto-about{
+.foto-about {
   border-radius: 100% !important;
-  width: 30% !important;
+  width: 100% !important;
 }
 
-/*.span main > image {
- border-radius: 100%;
- width: 50%;
- align-items: center;
+.major {
+  width: 50% !important;
+}
+
+.foto-about-section {
+  display: flex;
+  justify-content: center;
+}
+
+.foto-about-section div {
+  width: 30%;
+  margin: auto;
+}
+
+.foto-work{
+    border-radius: 100% !important;
+  width: 100% !important;
+}
+
+.foto-work-section div{
+    width: 30%;
+    margin: auto;
 }
