@@ -1,4 +1,4 @@
 # rebecacostadev.github.io
-Meu site.
+Meu curriculo.
 
 https://rebecacostadev.github.io/
